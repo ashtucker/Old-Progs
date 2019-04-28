@@ -1,0 +1,6 @@
+C:\Users\1\Desktop\SDAI'EM ALL\ПЧМИ\Task4_con\Task4_con\bin\Debug\Task4_con.exe.config
+C:\Users\1\Desktop\SDAI'EM ALL\ПЧМИ\Task4_con\Task4_con\bin\Debug\Task4_con.exe
+C:\Users\1\Desktop\SDAI'EM ALL\ПЧМИ\Task4_con\Task4_con\bin\Debug\Task4_con.pdb
+C:\Users\1\Desktop\SDAI'EM ALL\ПЧМИ\Task4_con\Task4_con\obj\Debug\Task4_con.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\SDAI'EM ALL\ПЧМИ\Task4_con\Task4_con\obj\Debug\Task4_con.exe
+C:\Users\1\Desktop\SDAI'EM ALL\ПЧМИ\Task4_con\Task4_con\obj\Debug\Task4_con.pdb

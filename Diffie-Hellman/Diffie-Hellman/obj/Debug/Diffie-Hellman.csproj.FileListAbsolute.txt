@@ -1,0 +1,18 @@
+c:\users\василий\documents\visual studio 2012\Projects\Diffie-Hellman\Diffie-Hellman\bin\Debug\Diffie-Hellman.exe.config
+c:\users\василий\documents\visual studio 2012\Projects\Diffie-Hellman\Diffie-Hellman\bin\Debug\Diffie-Hellman.exe
+c:\users\василий\documents\visual studio 2012\Projects\Diffie-Hellman\Diffie-Hellman\bin\Debug\Diffie-Hellman.pdb
+c:\users\василий\documents\visual studio 2012\Projects\Diffie-Hellman\Diffie-Hellman\obj\Debug\Diffie-Hellman.csprojResolveAssemblyReference.cache
+c:\users\василий\documents\visual studio 2012\Projects\Diffie-Hellman\Diffie-Hellman\obj\Debug\Diffie-Hellman.exe
+c:\users\василий\documents\visual studio 2012\Projects\Diffie-Hellman\Diffie-Hellman\obj\Debug\Diffie-Hellman.pdb
+G:\Diffie-Hellman\Diffie-Hellman\bin\Debug\Diffie-Hellman.exe.config
+G:\Diffie-Hellman\Diffie-Hellman\obj\Debug\Diffie-Hellman.pdb
+G:\Diffie-Hellman\Diffie-Hellman\bin\Debug\Diffie-Hellman.exe
+G:\Diffie-Hellman\Diffie-Hellman\bin\Debug\Diffie-Hellman.pdb
+G:\Diffie-Hellman\Diffie-Hellman\obj\Debug\Diffie-Hellman.csprojResolveAssemblyReference.cache
+G:\Diffie-Hellman\Diffie-Hellman\obj\Debug\Diffie-Hellman.exe
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\2 КУРС\ОИБ\ИНФОБЕЗ\Diffie-Hellman\Diffie-Hellman\bin\Debug\Diffie-Hellman.exe.config
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\2 КУРС\ОИБ\ИНФОБЕЗ\Diffie-Hellman\Diffie-Hellman\obj\Debug\Diffie-Hellman.exe
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\2 КУРС\ОИБ\ИНФОБЕЗ\Diffie-Hellman\Diffie-Hellman\obj\Debug\Diffie-Hellman.pdb
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\2 КУРС\ОИБ\ИНФОБЕЗ\Diffie-Hellman\Diffie-Hellman\bin\Debug\Diffie-Hellman.exe
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\2 КУРС\ОИБ\ИНФОБЕЗ\Diffie-Hellman\Diffie-Hellman\bin\Debug\Diffie-Hellman.pdb
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\2 КУРС\ОИБ\ИНФОБЕЗ\Diffie-Hellman\Diffie-Hellman\obj\Debug\Diffie-Hellman.csprojResolveAssemblyReference.cache

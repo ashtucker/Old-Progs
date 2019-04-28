@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scenario>
+<question id="1" text="Вопрос 1">
+	<answer nextid="2">да</answer>
+	<answer nextid="0">нет</answer>
+	</question>
+<question id="2" text="Вопрос 2">
+<answer nextid="3">вариант 1</answer>
+<answer nextid="3">вариант 2</answer>
+<answer nextid="3">вариант 3</answer>
+<answer nextid="3">вариант 4</answer>
+</question>
+<question id="3" text="Вопрос 3">
+<answer nextid="4">ответ</answer>
+<answer nextid="4">ответ 2</answer>
+</question>
+<question id="4" text="Вопрос 4">
+<answer nextid="5">след</answer>
+<answer nextid="4">остаться</answer>
+</question>
+<question id="5" text="Вопрос 5">
+<answer nextid="1">начало</answer>
+<answer nextid="0">конец</answer>
+</question>
+</scenario>

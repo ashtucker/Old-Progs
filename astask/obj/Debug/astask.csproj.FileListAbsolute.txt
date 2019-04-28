@@ -1,0 +1,6 @@
+C:\Users\1\Desktop\SDAI'EM ALL\ЯПИМТ\astask\astask\bin\Debug\astask.exe.config
+C:\Users\1\Desktop\SDAI'EM ALL\ЯПИМТ\astask\astask\bin\Debug\astask.exe
+C:\Users\1\Desktop\SDAI'EM ALL\ЯПИМТ\astask\astask\bin\Debug\astask.pdb
+C:\Users\1\Desktop\SDAI'EM ALL\ЯПИМТ\astask\astask\obj\Debug\astask.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\SDAI'EM ALL\ЯПИМТ\astask\astask\obj\Debug\astask.exe
+C:\Users\1\Desktop\SDAI'EM ALL\ЯПИМТ\astask\astask\obj\Debug\astask.pdb

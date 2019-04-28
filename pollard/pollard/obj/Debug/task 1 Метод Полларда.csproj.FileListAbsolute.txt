@@ -1,0 +1,9 @@
+C:\Users\Камилла\Desktop\Камилла\Программы\С#\Инфбез\task 1 Метод Полларда\task 1 Метод Полларда\bin\Debug\task 1 Метод Полларда.exe.config
+C:\Users\Камилла\Desktop\Камилла\Программы\С#\Инфбез\task 1 Метод Полларда\task 1 Метод Полларда\bin\Debug\task 1 Метод Полларда.exe
+C:\Users\Камилла\Desktop\Камилла\Программы\С#\Инфбез\task 1 Метод Полларда\task 1 Метод Полларда\bin\Debug\task 1 Метод Полларда.pdb
+C:\Users\Камилла\Desktop\Камилла\Программы\С#\Инфбез\task 1 Метод Полларда\task 1 Метод Полларда\obj\Debug\task 1 Метод Полларда.csprojResolveAssemblyReference.cache
+C:\Users\Камилла\Desktop\Камилла\Программы\С#\Инфбез\task 1 Метод Полларда\task 1 Метод Полларда\obj\Debug\task 1 Метод Полларда.exe
+C:\Users\Камилла\Desktop\Камилла\Программы\С#\Инфбез\task 1 Метод Полларда\task 1 Метод Полларда\obj\Debug\task 1 Метод Полларда.pdb
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\2 КУРС\ОИБ\ИНФОБЕЗ\task 1 Метод Полларда\task 1 Метод Полларда\bin\Debug\task 1 Метод Полларда.exe.config
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\2 КУРС\ОИБ\ИНФОБЕЗ\task 1 Метод Полларда\task 1 Метод Полларда\obj\Debug\task 1 Метод Полларда.exe
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\2 КУРС\ОИБ\ИНФОБЕЗ\task 1 Метод Полларда\task 1 Метод Полларда\obj\Debug\task 1 Метод Полларда.pdb

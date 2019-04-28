@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<scenario>
+  <question id="1" text="вопрос">
+    <answer nextid="5">ответ</answer>
+    <answer nextid="6">нрнр</answer>
+  </question>
+</scenario>

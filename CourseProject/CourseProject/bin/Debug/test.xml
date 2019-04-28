@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<scenario>
+  <question id="1" text="1">
+    <answer nextid="1">1</answer>
+    <answer nextid="2">1</answer>
+  </question>
+  <question id="2" text="1">
+    <answer nextid="1">1</answer>
+    <answer nextid="2">1</answer>
+  </question>
+</scenario>

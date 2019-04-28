@@ -1,0 +1,7 @@
+C:\Users\1\Desktop\ПЧМИ\Task3_con\Task3_con\bin\Debug\Task3_con.exe.config
+C:\Users\1\Desktop\SDAI'EM ALL\ПЧМИ\Task3_con\Task3_con\bin\Debug\Task3_con.exe.config
+C:\Users\1\Desktop\SDAI'EM ALL\ПЧМИ\Task3_con\Task3_con\bin\Debug\Task3_con.exe
+C:\Users\1\Desktop\SDAI'EM ALL\ПЧМИ\Task3_con\Task3_con\bin\Debug\Task3_con.pdb
+C:\Users\1\Desktop\SDAI'EM ALL\ПЧМИ\Task3_con\Task3_con\obj\Debug\Task3_con.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\SDAI'EM ALL\ПЧМИ\Task3_con\Task3_con\obj\Debug\Task3_con.exe
+C:\Users\1\Desktop\SDAI'EM ALL\ПЧМИ\Task3_con\Task3_con\obj\Debug\Task3_con.pdb

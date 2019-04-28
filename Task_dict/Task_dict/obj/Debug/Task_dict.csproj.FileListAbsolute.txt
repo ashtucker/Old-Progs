@@ -1,0 +1,6 @@
+C:\Users\1\Desktop\SDAI'EM ALL\ЯПИМТ\Task_dict\Task_dict\bin\Debug\Task_dict.exe.config
+C:\Users\1\Desktop\SDAI'EM ALL\ЯПИМТ\Task_dict\Task_dict\bin\Debug\Task_dict.exe
+C:\Users\1\Desktop\SDAI'EM ALL\ЯПИМТ\Task_dict\Task_dict\bin\Debug\Task_dict.pdb
+C:\Users\1\Desktop\SDAI'EM ALL\ЯПИМТ\Task_dict\Task_dict\obj\Debug\Task_dict.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\SDAI'EM ALL\ЯПИМТ\Task_dict\Task_dict\obj\Debug\Task_dict.exe
+C:\Users\1\Desktop\SDAI'EM ALL\ЯПИМТ\Task_dict\Task_dict\obj\Debug\Task_dict.pdb

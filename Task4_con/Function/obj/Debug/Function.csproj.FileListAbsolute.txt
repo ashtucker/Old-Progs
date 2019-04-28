@@ -1,0 +1,6 @@
+C:\Users\1\Desktop\SDAI'EM ALL\ПЧМИ\Task4_con\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\1\Desktop\SDAI'EM ALL\ПЧМИ\Task4_con\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\1\Desktop\SDAI'EM ALL\ПЧМИ\Task4_con\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\1\Desktop\SDAI'EM ALL\ПЧМИ\Task4_con\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\1\Desktop\SDAI'EM ALL\ПЧМИ\Task4_con\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\1\Desktop\SDAI'EM ALL\ПЧМИ\Task4_con\Function\bin\Debug\ConsoleApplication1.exe.config

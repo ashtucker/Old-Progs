@@ -1,0 +1,41 @@
+C:\Users\1\Desktop\SDAI'EM ALL\CourseProject\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\1\Desktop\SDAI'EM ALL\CourseProject\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\1\Desktop\SDAI'EM ALL\CourseProject\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\1\Desktop\SDAI'EM ALL\CourseProject\CourseProject\obj\Debug\CourseProject.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\SDAI'EM ALL\CourseProject\CourseProject\obj\Debug\CourseProject.About.resources
+C:\Users\1\Desktop\SDAI'EM ALL\CourseProject\CourseProject\obj\Debug\CourseProject.DialogueForm.resources
+C:\Users\1\Desktop\SDAI'EM ALL\CourseProject\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\1\Desktop\SDAI'EM ALL\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\SDAI'EM ALL\CourseProject\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\1\Desktop\SDAI'EM ALL\CourseProject\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\1\Desktop\SDAI'EM ALL\CourseProject\CourseProject\obj\Debug\CourseProject.Editor.resources
+C:\Users\1\Desktop\SDAI'EM ALL\CourseProject\CourseProject\obj\Debug\CourseProject.SprEd.resources
+C:\Users\1\Desktop\SDAI'EM ALL\CourseProject\CourseProject\obj\Debug\CourseProject.SprM.resources
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\SDAI'EM ALL\ФАК ДИС ЩИТ АЙМ АУТ\CourseProject\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\SDAI'EM ALL\ФАК ДИС ЩИТ АЙМ АУТ\CourseProject\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\SDAI'EM ALL\ФАК ДИС ЩИТ АЙМ АУТ\CourseProject\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\2 КУРС\Проги за 3 семестр\ФАК ДИС ЩИТ АЙМ АУТ\CourseProject\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\2 КУРС\Проги за 3 семестр\ФАК ДИС ЩИТ АЙМ АУТ\CourseProject\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\2 КУРС\Проги за 3 семестр\ФАК ДИС ЩИТ АЙМ АУТ\CourseProject\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\2 КУРС\Проги за 3 семестр\ФАК ДИС ЩИТ АЙМ АУТ\CourseProject\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\2 КУРС\Проги за 3 семестр\ФАК ДИС ЩИТ АЙМ АУТ\CourseProject\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\2 КУРС\Проги за 3 семестр\ФАК ДИС ЩИТ АЙМ АУТ\CourseProject\CourseProject\obj\Debug\CourseProject.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\2 КУРС\Проги за 3 семестр\ФАК ДИС ЩИТ АЙМ АУТ\CourseProject\CourseProject\obj\Debug\CourseProject.About.resources
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\2 КУРС\Проги за 3 семестр\ФАК ДИС ЩИТ АЙМ АУТ\CourseProject\CourseProject\obj\Debug\CourseProject.DialogueForm.resources
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\2 КУРС\Проги за 3 семестр\ФАК ДИС ЩИТ АЙМ АУТ\CourseProject\CourseProject\obj\Debug\CourseProject.Editor.resources
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\2 КУРС\Проги за 3 семестр\ФАК ДИС ЩИТ АЙМ АУТ\CourseProject\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\2 КУРС\Проги за 3 семестр\ФАК ДИС ЩИТ АЙМ АУТ\CourseProject\CourseProject\obj\Debug\CourseProject.SprEd.resources
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\2 КУРС\Проги за 3 семестр\ФАК ДИС ЩИТ АЙМ АУТ\CourseProject\CourseProject\obj\Debug\CourseProject.SprM.resources
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\2 КУРС\Проги за 3 семестр\ФАК ДИС ЩИТ АЙМ АУТ\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\2 КУРС\Проги за 3 семестр\АЙМ АУТ\CourseProject\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\2 КУРС\Проги за 3 семестр\АЙМ АУТ\CourseProject\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\2 КУРС\Проги за 3 семестр\АЙМ АУТ\CourseProject\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\ITMO\для аисд\CourseProject\CourseProject\obj\Debug\CourseProject.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\ITMO\для аисд\CourseProject\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\ITMO\для аисд\CourseProject\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\ITMO\для аисд\CourseProject\CourseProject\obj\Debug\CourseProject.About.resources
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\ITMO\для аисд\CourseProject\CourseProject\obj\Debug\CourseProject.DialogueForm.resources
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\ITMO\для аисд\CourseProject\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\ITMO\для аисд\CourseProject\CourseProject\obj\Debug\CourseProject.SprEd.resources
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\ITMO\для аисд\CourseProject\CourseProject\obj\Debug\CourseProject.SprM.resources
+C:\Users\1\Desktop\ОЧЕНЬ ВАЖНАЯ ПАПКА\ITMO\для аисд\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.Cache
